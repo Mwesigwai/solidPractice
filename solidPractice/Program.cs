@@ -1,7 +1,9 @@
 ﻿using solidPractice;
-ChangeLib changeLib = new ChangeLib();
+DeleteBooks delete = new();
+AddBooks addBooks = new();
 GetFromLibrary libraryContent = new GetFromLibrary();
-changeLib.AddBook("Tatiana", "Understand");
-changeLib.AddBook("Waswa", "Condelences");
-changeLib.AddBook("Robert Kiyosaki", "Rich dad poor dad");
+addBooks.AddBook("Tatiana", "Understand");
+addBooks.AddBook("Waswa", "Condelences");
+addBooks.AddBook("Robert Kiyosaki", "Rich dad poor dad");
+delete.deleteBook("Tatiana", "Understand");
 libraryContent.ShowBooks();
