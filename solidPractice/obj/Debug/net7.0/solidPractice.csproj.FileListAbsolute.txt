@@ -1,0 +1,14 @@
+C:\Users\mwesi\source\repos\solidPractice\solidPractice\bin\Debug\net7.0\solidPractice.exe
+C:\Users\mwesi\source\repos\solidPractice\solidPractice\bin\Debug\net7.0\solidPractice.deps.json
+C:\Users\mwesi\source\repos\solidPractice\solidPractice\bin\Debug\net7.0\solidPractice.runtimeconfig.json
+C:\Users\mwesi\source\repos\solidPractice\solidPractice\bin\Debug\net7.0\solidPractice.dll
+C:\Users\mwesi\source\repos\solidPractice\solidPractice\bin\Debug\net7.0\solidPractice.pdb
+C:\Users\mwesi\source\repos\solidPractice\solidPractice\obj\Debug\net7.0\solidPractice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mwesi\source\repos\solidPractice\solidPractice\obj\Debug\net7.0\solidPractice.AssemblyInfoInputs.cache
+C:\Users\mwesi\source\repos\solidPractice\solidPractice\obj\Debug\net7.0\solidPractice.AssemblyInfo.cs
+C:\Users\mwesi\source\repos\solidPractice\solidPractice\obj\Debug\net7.0\solidPractice.csproj.CoreCompileInputs.cache
+C:\Users\mwesi\source\repos\solidPractice\solidPractice\obj\Debug\net7.0\solidPractice.dll
+C:\Users\mwesi\source\repos\solidPractice\solidPractice\obj\Debug\net7.0\refint\solidPractice.dll
+C:\Users\mwesi\source\repos\solidPractice\solidPractice\obj\Debug\net7.0\solidPractice.pdb
+C:\Users\mwesi\source\repos\solidPractice\solidPractice\obj\Debug\net7.0\solidPractice.genruntimeconfig.cache
+C:\Users\mwesi\source\repos\solidPractice\solidPractice\obj\Debug\net7.0\ref\solidPractice.dll
